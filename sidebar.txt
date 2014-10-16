@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ajz:home|Door43 (ajz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ajz|d43-ajz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ajz/archive/master.zip|d43-ajz.zip]]
+
+**Recent Changes**
+{{changes>ns = ajz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ajz|Ethnologue data]]
+
